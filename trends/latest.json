@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-17T10:43:36.150336Z",
+  "generated_at": "2026-11-17T11:56:13.689046Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -66,7 +66,7 @@
           "published_at": "2026-11-04"
         }
       ],
-      "researched_at": "2026-11-17T10:40:43.768138Z",
+      "researched_at": "2026-11-17T11:55:31.183074Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -139,7 +139,7 @@
           "published_at": "2026-11-15"
         }
       ],
-      "researched_at": "2026-11-17T10:41:29.710125Z",
+      "researched_at": "2026-11-17T11:55:45.005491Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -147,7 +147,7 @@
       "research_status": {
         "grounding": "ok",
         "hackernews": "ok",
-        "jobs": "timeout",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -212,7 +212,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-17T10:42:16.075144Z",
+      "researched_at": "2026-11-17T11:55:51.346784Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -220,7 +220,7 @@
       "research_status": {
         "grounding": "ok",
         "hackernews": "ok",
-        "jobs": "timeout",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -231,9 +231,8 @@
       "summary": "Ask HN: What is the most secure OS for mobile phone?",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -254,39 +253,15 @@
           "url": "https://arxiv.org/abs/2609.21544",
           "source": "hackernews",
           "published_at": "2026-10-25"
-        },
-        {
-          "title": "Mobile Game Development Software & Engine | Unity",
-          "url": "https://unity.com/solutions/mobile",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Complete Mobile Game App Development Guide for 2026",
-          "url": "https://www.jploft.com/blog/mobile-game-app-development-guide",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Build Your Own Mobile Game - Unreal Engine 4 Online Course",
-          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=VLiEn51Cly7IMkmtk5y7JHd08hgiDaAGpZbsDmBuTHYwI68bAu8hKrh5zXiIq6qhpIVOFikjWBUElPRxV0TLsMeJXTLHTrwE17SeI8vvzrrYuzSRzA_pIvY7c53H9FdqbWwCPt875UTizEijKKo_qXPcqxBeUOcNbaer_PvA2cE.982nCUbLcZgb1u_fvC8syg&rut=9f10406149ba259746dda766d159a77af8f982caf8c3c27b1683ec106580863e&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De86ZRRxeAjZbbowd2a8x2Y%2DjVUCUzgV%2DzpcOZhuNiFtzNxyZf00HSWt5EPV17zeUFih2n9qXJOEWl1TBXK5H2PhVYZjOE3hwt6KQ6adFW5mD7wdoPwNR6HteJrvpRCEH%2DB5q87eRztQX%2D2Bl1wF9GRI%2Dd32R%2DUeBikKlW6h_jVhcOrrBrCkKm4Bqp2FQbRNo4STI0YbFCcHTa45fLipmXov7SwjoU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmaG93LXRvLWNyZWF0ZS1hLW1vYmlsZS1nYW1lLWZvci1pb3Mtd2l0aC11bnJlYWwtZW5naW5lLTQlMmYlM2Z1dG1fY2FtcGFpZ24lM2RCRy1TZWFyY2hfRFNBX0JldGFfUHJvZl9sYS5FTl9jYy5ST1ctRW5nbGlzaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWQtc2VhcmNoJTI2cG9ydGZvbGlvJTNkQmluZy1ST1ctRW5nbGlzaCUyNnV0bV9hdWRpZW5jZSUzZG14JTI2dXRtX3RhY3RpYyUzZG5iJTI2dXRtX3Rlcm0lM2RfLl9hZ18xMzI0OTEzODk5OTE4MDExXy5fYWRfXy5fa3dfRGV2JTI1MjBlbiUyNnV0bV9jb250ZW50JTNkcyUyNmZ1bm5lbCUzZCUyNnRlc3QlM2QlMjZ1dG1fY2FtcGFpZ25faWQlM2Q2Mzg1OTYyMjklMjZtc2Nsa2lkJTNkMjZhYzc1YjRmYTNkMWM0NDgyMjExZjQ4ZDViNDU4NjE%26rlid%3D26ac75b4fa3d1c4482211f48d5b45861&vqd=4-336703773281943140669043821275355638123&iurl=%7B1%7DIG%3D8352CCD96480413995262C2B7E679C36%26CID%3D322E95F3631E64B232248DE7627C65AB%26ID%3DDevEx%2C5040.1",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Develop Android games | Android game development | Android Developers",
-          "url": "https://developer.android.com/games",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:42:17.999878Z",
+      "researched_at": "2026-11-17T11:55:52.708732Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "mobile game development",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
@@ -298,9 +273,8 @@
       "summary": "So the solutions to the n'th roots of unity of the form z^n = 1 are n-gons on the unit circle. This means for an arbitrary w in the complex field z^n = w gives solutions on a circle with radius n'th root of modulus w and are 2*pi/n apart so it is also an n-gon. Pretty fun stuff to plot around using ... Reading this made me feel like I am in highschool again Reading the title, I thought this was going to be about the origins of the Unity game engine.",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -327,41 +301,17 @@
           "url": "https://unity.com/blog/synty-studios-acquisition",
           "source": "hackernews",
           "published_at": "2026-11-17"
-        },
-        {
-          "title": "Unity engine - Game Development With Unity",
-          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=6bPPqOjoNUSbethEOb6V9q%2D3K%2DeurvfipfrcBdSva05q5DkIb4p0Wm5lfx7%2DHaAnfIKji88IbPw9%2D9iGzypXgxkzkYsslIR_fLDU1zAGhQdNCosxbvsaj3m3oF2ifZTASlqd3vYL0y2geEtiIZ3jCKhwLzqOaCnm_DF9r2NpY5s.d7Dt_CQNFF2lhQnSpPmxMw&rut=5e49661adc52951c9d1b6f5357a1106ba127bb586f5507da582daec78022aead&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8U_VfK8WhFdamgDV7xXhbwzVUCUyDYg15CRHxEPH1AE24MtXhOz_%2DdOqoZqYGmRdOTSfPtYyxzV5lLMlgCx_kbudl7CXMSDYtaj2guYaq8roS7J%2DX%2DMBJe9U1tHgPKq%2DePaMM55S1BDpag_qSUfXFBFTS9Li8XXblSNSb6j4rQQ2rMSF7a%2D2_927IIX2PMfBxi4hkcpEOtWr8rH6Sq4Ssjxw5AvU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmdGhlLXVsdGltYXRlLWd1aWRlLXRvLWdhbWUtZGV2ZWxvcG1lbnQtd2l0aC11bml0eSUyZiUzZnV0bV9jYW1wYWlnbiUzZEJHLVNlYXJjaF9LZXl3b3JkX0JldGFfUHJvZl9sYS5FTl9jYy5ST1ctRW5nbGlzaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWQtc2VhcmNoJTI2cG9ydGZvbGlvJTNkQmluZy1ST1ctRW5nbGlzaCUyNnV0bV9hdWRpZW5jZSUzZG14JTI2dXRtX3RhY3RpYyUzZG5iJTI2dXRtX3Rlcm0lM2RfLl9hZ18xMzE4MzE2ODMwMjIwNDA1Xy5fYWRfXy5fa3dfVW5pdHklMjUyMGVuZ2luZSUyNnV0bV9jb250ZW50JTNkcyUyNmZ1bm5lbCUzZCUyNnRlc3QlM2QlMjZ1dG1fY2FtcGFpZ25faWQlM2Q2Mzg1OTYyMzIlMjZtc2Nsa2lkJTNkNTg2MDQ3N2E1NmM2MTFjZGM5OWYyZDg2Nzk0ZDA3ZjQ%26rlid%3D5860477a56c611cdc99f2d86794d07f4&vqd=4-106904555981509537329789372252032169600&iurl=%7B1%7DIG%3DF0DF76494AC845E1931E3AACD4631A49%26CID%3D2B6E72B80B056A0712C06AAC0AFD6B56%26ID%3DDevEx%2C5034.1",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity: Develop, Deploy, and Grow | The World's Leading Game Engine",
-          "url": "https://unity.com/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity Engine: 2D & 3D Development Platform | Unity",
-          "url": "https://unity.com/products/unity-engine",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity (game engine) - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Unity_(game_engine)",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:42:31.530063Z",
+      "researched_at": "2026-11-17T11:56:07.145108Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "Unity engine",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
-        "jobs": "ok",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -372,9 +322,8 @@
       "summary": "Can I please congratulate you on your README. It rapidly tells me what I'm looking at, and why I might be interested in the project. There are so many READMEs around that ... just don't do that. They ramble about technical implementation details, how their language choice is amazing, and a third of ... I love the general idea behind Blender's UI. And I do appreciate the effort that goes into it, especially in the latest versions as it got much better, But I really really really REALLY don't wan…",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -391,24 +340,6 @@
           "published_at": "2026-11-10"
         },
         {
-          "title": "Blender 3d Assets Online - Rodin: Text/Image to 3D",
-          "url": "https://duckduckgo.com/y.js?ad_domain=hyper3d.ai&ad_provider=bingv7aa&ad_type=txad&click_metadata=j%2D9W%2D4jKT5Pv9O1J9h6ebjPfZCb3m0jdRGCTJ8yLBGhalQxzvNGj3wH_CIzbxfIcAMDClgUfPak9dUmXAuFrxj4furegtnrRs4YnQuzhhm%2DiBUt39o8CTtktMeSe9npNZg22FVdXqQzf6MrtdnJr9A4mgf%2DwOc1OgKnvMAXKle8.5lfMaEQ1ETg7dSTe5aO38g&rut=c45b29d6db3e00c6740a2a9d5b5170ce9fbdd09a624b51cf282494435b9d7ef7&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8G1Y1ozoXDkpPzq7_aafHRjVUCUxR3X7lqPfY5U59Z4SgUqvyxRufhXxcjd%2D0VRKG2ZQaAv4uxizoLxcbGZtZaxj3K_6dqH_pPwOpnlBzRHCTw__QL7KWc9_eKvgXEKJppPVedcE561DDzdk%2D1HvVA0h2Dr502HzNE3JyGsBAP33LdiNmDxaK%2D8wuv5T36n_48kTDdVCPz2epZKaOKaskekTDSkk%26u%3DaHR0cHMlM2ElMmYlMmZoeXBlcjNkLmFpJTNmbXNjbGtpZCUzZDVhMTBkYWU3OTU2NDE5OGRjOTE0YjAxYmJhZmYzODNm%26rlid%3D5a10dae79564198dc914b01bbaff383f&vqd=4-306653467361395604652697392562942434068&iurl=%7B1%7DIG%3D87C3D637139C45E09DD516EC117A8DFB%26CID%3D39808F6F7FE36611145F977B7E1B67D3%26ID%3DDevEx%2C5035.1",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Blender - The Free and Open Source 3D Creation Software — blender.org",
-          "url": "https://www.blender.org/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Download — Blender",
-          "url": "https://www.blender.org/download/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
           "title": "Show HN: Vork – headless 3D and VFX engine for agents",
           "url": "https://github.com/voyager-so/vork",
           "source": "hackernews",
@@ -419,23 +350,17 @@
           "url": "https://sketchagent.dev/s/yfYU6LhT",
           "source": "hackernews",
           "published_at": "2026-10-26"
-        },
-        {
-          "title": "Meshy 7 for 3D Printing - Make STL Files in Seconds",
-          "url": "https://duckduckgo.com/y.js?ad_domain=meshy.ai&ad_provider=bingv7aa&ad_type=txad&click_metadata=PIEmCjZs5zsJ4MqbMEZuCFtRjWbKLnz4GTPHmRDZnDCLy4XaZIxNfRLkjAEsN3z532ECp0OcvKF9xFNcod0ayXATk2oUVXHduQ3t2S5EvHz205bql36i3HkoRTINCQaIbeQNXrdze7S5O_hAYXyy_GiV%2DE4hvuMCM1MHxFJSQ1U.KpB4puHc9F_F9E3sF%2DE9GQ&rut=7b337523f2e8b1fa4c5b635bd751bdf212cd21afbdd2d82dbd052d293bd601cc&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8oL0TenoQr4NA7BD2lkzJkDVUCUwhf_124Pu1LkTWdnkKmj9v2ULIhRqPQiUNRyGTGyUtQ3zW4QIYn7nHh8qtDf5cCt1N2lSZSjHA3vESPL2_2oLEufJ3yK4XD2l34tt79spVcam9E5wH2dlbA58TB8B9p61L5H1%2Dulbgf_KBi1eaXfDavWMmR_CKrePU0G6WECEniFTHSUbUVKhNTY_Ko1Sggz4%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cubWVzaHkuYWklMmYlM2Z1dG1fY29udGVudCUzZDExNzY0Nzk4MDE0NTgwMzYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwbWF4JTI2dXRtX2NhbXBhaWduJTNkNTcxNTU0NzU0JTI2bXNjbGtpZCUzZDgzNWZhYjgxMmZiMDFiNWIwMWY4YzE3ZDAwMmJhNzIzJTI2dXRtX3Rlcm0lM2R3d3cubWVzaHkuYWklMjZ1dG1fY29udGVudCUzZEFJJTI1MjAzRCUyNTIwR2VuZXJhdGlvbg%26rlid%3D835fab812fb01b5b01f8c17d002ba723&vqd=4-298169264625387393846367694781863966212&iurl=%7B1%7DIG%3D87C3D637139C45E09DD516EC117A8DFB%26CID%3D39808F6F7FE36611145F977B7E1B67D3%26ID%3DDevEx%2C5040.1",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:43:19.658868Z",
+      "researched_at": "2026-11-17T11:56:12.101454Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "Blender 3D",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
-        "jobs": "timeout",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -446,9 +371,8 @@
       "summary": "Indie Game Development with AI",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -469,56 +393,26 @@
           "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
           "source": "hackernews",
           "published_at": "2026-10-28"
-        },
-        {
-          "title": "Online Game Developer Courses - Earn Your Game Development",
-          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=fbAsUTCXGg_8qM_HHirk20yjx8jBrG%2DfJOkjqk2OiDyueqQU5SZlk8BSpStEB4vOuoGUEpTw40EYPW3lLKvPffYDJkYRLtudn1Pp8NBy5%2Diswgsfi%2D34q0_XXDtKjmUgEi%2D0OQuKJ5WHWHXNc62ZB_iBa2n06thv3MtzFwzWTG8._VDZqREgdypdSiUbeft4BA&rut=1b7f2de0f4dd328e4f60104459b4cf80fee7870602ea3116a93db426c3f5b68b&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8bFoEVNmMWeoOPCATaevsMjVUCUygakJsto3zSP0WfazAv5kCk2bDnGFx2iC2W9PehmwCZeV6BytanenkgTkXbVkmneW%2DhMM6hjtplfWHrvVVJzfV9ENHUBhH8UaiwC9lzRm0RF2%2DELETL3tj%2DIMUIef5bfMGn23r_LdG8_YtaxHXUHLzZGdqahSPXgvZM7pfwFckh38jcm1my7XnlaoCWunaEwA%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmdGhlLWdhbWUtZGV2ZWxvcGVyLWJvb3RjYW1wJTJmJTNmdXRtX2NhbXBhaWduJTNkQkctU2VhcmNoX0RTQV9CZXRhX1Byb2ZfbGEuRU5fY2MuUk9XLUVuZ2xpc2glMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnBvcnRmb2xpbyUzZEJpbmctUk9XLUVuZ2xpc2glMjZ1dG1fYXVkaWVuY2UlM2RteCUyNnV0bV90YWN0aWMlM2RuYiUyNnV0bV90ZXJtJTNkXy5fYWdfMTMyNDkxMzg5OTkxODAxMV8uX2FkX18uX2t3X0RldiUyNTIwZW4lMjZ1dG1fY29udGVudCUzZHMlMjZmdW5uZWwlM2QlMjZ0ZXN0JTNkJTI2dXRtX2NhbXBhaWduX2lkJTNkNjM4NTk2MjI5JTI2bXNjbGtpZCUzZDljMDc5ZTg5OTg2MzFiMTkwYTYzZjQ3NWI3YWE4ZWZm%26rlid%3D9c079e8998631b190a63f475b7aa8eff&vqd=4-307790184561223716740478253090095500147&iurl=%7B1%7DIG%3D1EF23151A25544B1A26D5CA65E407272%26CID%3D15C69E30BEC96BB121918624BFAB6AD6%26ID%3DDevEx%2C5034.1",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Video game development - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Video_game_development",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "How to Get Started with Game Development - GeeksforGeeks",
-          "url": "https://www.geeksforgeeks.org/blogs/how-to-get-started-with-game-development/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "GDevelop: Free, Fast, Easy Game Engine - No-code, AI-assisted ...",
-          "url": "https://gdevelop.io/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "What Is a Game Developer (and How to Become One)?",
-          "url": "https://www.coursera.org/articles/game-developer",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:43:36.101154Z",
+      "researched_at": "2026-11-17T11:56:13.658706Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "game development tools",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
-        "reddit": "timeout"
+        "reddit": "auth-failed"
       }
     },
     {
       "id": "discovery-windows-11",
       "title": "Windows 11",
       "category": "ai",
-      "summary": "1 listing item on hackernews generated 1,083 native interactions. Windows 11 is collecting data on which coding agents and developer tools you use",
+      "summary": "1 listing item on hackernews generated 1,119 native interactions. Windows 11 is collecting data on which coding agents and developer tools you use",
       "momentum": "new-this-week",
-      "velocity_score": 1148.69,
+      "velocity_score": 1186.88,
       "source_count": 1,
       "sources": [
         "hackernews"
@@ -531,33 +425,7 @@
           "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:43:36.150336Z",
-      "coverage": "discovery",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI agents",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-maxwell-model-maxwell-v1-flash-hugging-face",
-      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
-      "category": "ai",
-      "summary": "1 listing item on reddit generated 234 native interactions. # Model Introduction **Maxwell-V1.0-Flash** is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with **35B total parameters and 3B active parameters per token**",
-      "momentum": "new-this-week",
-      "velocity_score": 351.0,
-      "source_count": 1,
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "researched_at": "2026-11-17T11:56:13.689046Z",
       "coverage": "discovery",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -583,11 +451,37 @@
           "published_at": null
         }
       ],
-      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "researched_at": "2026-11-17T11:56:13.689046Z",
       "coverage": "discovery",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-maxwell-model-maxwell-v1-flash-hugging-face",
+      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+      "category": "ai",
+      "summary": "1 listing item on reddit generated 234 native interactions. # Model Introduction **Maxwell-V1.0-Flash** is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with **35B total parameters and 3B active parameters per token**",
+      "momentum": "new-this-week",
+      "velocity_score": 351.0,
+      "source_count": 1,
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "coverage": "cached",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
       "research_status": {}
     },
     {
@@ -619,7 +513,7 @@
   ],
   "source_status": {
     "digg": "skipped-unconfigured",
-    "grounding": "ok",
+    "grounding": "unreachable",
     "hackernews": "ok",
     "jobs": "timeout",
     "reddit": "auth-failed",
@@ -628,7 +522,8 @@
   "warnings": [
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
-    "Nguồn suy giảm: jobs=timeout, reddit=auth-failed."
+    "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
+    "Nguồn suy giảm: grounding=unreachable, jobs=timeout, reddit=auth-failed."
   ],
   "engine": {
     "name": "last30days",
