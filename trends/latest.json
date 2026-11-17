@@ -1,0 +1,638 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-17T10:43:36.150336Z",
+  "window_days": 30,
+  "status": "degraded",
+  "last_success_at": "2026-11-15T10:26:04.381613Z",
+  "topics": [
+    {
+      "id": "ai-agents",
+      "title": "AI Agents",
+      "category": "ai",
+      "summary": "How do they plan on stopping me from using Claude code with the Claude in chrome plugin, or some other computer use agent? At this point it feels like I have an adversarial relationship with many merchants I use online. I wish the simple “you have a product, I have money” relationship was possible. ... Tangent: it was always odd to me that \"booking a [flight|hotel|concert tickets]\" is the canonical example of a task that can be automated by an agent. These are tasks that are: - already streamli…",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "source": "hackernews",
+          "published_at": "2026-11-11"
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "source": "hackernews",
+          "published_at": "2026-11-11"
+        },
+        {
+          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "source": "hackernews",
+          "published_at": "2026-10-22"
+        },
+        {
+          "title": "Basically no one is using AI agents for their DoorDash orders",
+          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "source": "hackernews",
+          "published_at": "2026-11-02"
+        },
+        {
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "source": "hackernews",
+          "published_at": "2026-10-28"
+        },
+        {
+          "title": "Perplexity launches AI agents for work",
+          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+          "url": "https://news.ycombinator.com/item?id=50403153",
+          "source": "hackernews",
+          "published_at": "2026-11-07"
+        },
+        {
+          "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "source": "hackernews",
+          "published_at": "2026-11-04"
+        }
+      ],
+      "researched_at": "2026-11-17T10:40:43.768138Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "jobs": "timeout",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "ai-coding",
+      "title": "AI Coding",
+      "category": "ai",
+      "summary": "It's because the hard part of making software is not coding, but deciding what's worth building (even with LLMs), appropriately modelling the problem and designing the solution (at a conceptual, architectural level). And there has been strictly zero progress on this and IMO this isn't something LLMs... Blow argues software development hasn't advanced much since the early 2000s. As a game developer, I want to offer a counter point. In the last 3 years, there have been a lot more indie games of f…",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "hackernews",
+          "published_at": "2026-11-13"
+        },
+        {
+          "title": "LayerFS: A filesystem for AI coding agents",
+          "url": "https://layerfs.ai/",
+          "source": "hackernews",
+          "published_at": "2026-10-21"
+        },
+        {
+          "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
+          "url": "https://news.ycombinator.com/item?id=50307060",
+          "source": "hackernews",
+          "published_at": "2026-10-30"
+        },
+        {
+          "title": "Ask HN: Who's really winning with AI-Coding?",
+          "url": "https://news.ycombinator.com/item?id=50525329",
+          "source": "hackernews",
+          "published_at": "2026-11-16"
+        },
+        {
+          "title": "Ask HN: AI Coding Preference",
+          "url": "https://news.ycombinator.com/item?id=50374297",
+          "source": "hackernews",
+          "published_at": "2026-11-05"
+        },
+        {
+          "title": "AI coding agent setups from 663 Hacker News comments",
+          "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+          "source": "hackernews",
+          "published_at": "2026-11-04"
+        },
+        {
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "source": "hackernews",
+          "published_at": "2026-11-15"
+        }
+      ],
+      "researched_at": "2026-11-17T10:41:29.710125Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI coding tools",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "jobs": "timeout",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "ai-models",
+      "title": "AI Models",
+      "category": "ai",
+      "summary": "Apple, to me, is the winner in the end of this AI chapter. Distillation works: we can get models leaner, have better performance with lesser and lesser parameters, more efficient, running locally. Apple gets this and we'll see the result with M7 Max/ultra chips and I reckon this will be one of the t... \"Harbor is currently in a private preview under Apple’s Claris brand\" There's a name I haven't heard in a long time! Claris (always an Apple subsidiary, since being founded in 1987) renamed thems…",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+          "source": "hackernews",
+          "published_at": "2026-11-10"
+        },
+        {
+          "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "source": "hackernews",
+          "published_at": "2026-11-12"
+        },
+        {
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "hackernews",
+          "published_at": "2026-10-25"
+        },
+        {
+          "title": "Closed AI models dominate the price-performance frontier",
+          "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Every AI model has the same \"controversial\" take on humans",
+          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+          "source": "hackernews",
+          "published_at": "2026-10-22"
+        },
+        {
+          "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+          "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+          "source": "hackernews",
+          "published_at": "2026-11-12"
+        },
+        {
+          "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
+          "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
+          "source": "hackernews",
+          "published_at": "2026-11-16"
+        },
+        {
+          "title": "Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "hackernews",
+          "published_at": "2026-10-26"
+        }
+      ],
+      "researched_at": "2026-11-17T10:42:16.075144Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI models",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "jobs": "timeout",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "mobile-games",
+      "title": "Mobile Games",
+      "category": "game",
+      "summary": "Ask HN: What is the most secure OS for mobile phone?",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 2,
+      "sources": [
+        "grounding",
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Ask HN: What is the most secure OS for mobile phone?",
+          "url": "https://news.ycombinator.com/item?id=50390644",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Herdr Releases Mobile Apps",
+          "url": "https://herdr.dev/mobile/",
+          "source": "hackernews",
+          "published_at": "2026-11-10"
+        },
+        {
+          "title": "Cross-Platform vs. Native Mobile Development: Empirical Study",
+          "url": "https://arxiv.org/abs/2609.21544",
+          "source": "hackernews",
+          "published_at": "2026-10-25"
+        },
+        {
+          "title": "Mobile Game Development Software & Engine | Unity",
+          "url": "https://unity.com/solutions/mobile",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Complete Mobile Game App Development Guide for 2026",
+          "url": "https://www.jploft.com/blog/mobile-game-app-development-guide",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Build Your Own Mobile Game - Unreal Engine 4 Online Course",
+          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=VLiEn51Cly7IMkmtk5y7JHd08hgiDaAGpZbsDmBuTHYwI68bAu8hKrh5zXiIq6qhpIVOFikjWBUElPRxV0TLsMeJXTLHTrwE17SeI8vvzrrYuzSRzA_pIvY7c53H9FdqbWwCPt875UTizEijKKo_qXPcqxBeUOcNbaer_PvA2cE.982nCUbLcZgb1u_fvC8syg&rut=9f10406149ba259746dda766d159a77af8f982caf8c3c27b1683ec106580863e&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De86ZRRxeAjZbbowd2a8x2Y%2DjVUCUzgV%2DzpcOZhuNiFtzNxyZf00HSWt5EPV17zeUFih2n9qXJOEWl1TBXK5H2PhVYZjOE3hwt6KQ6adFW5mD7wdoPwNR6HteJrvpRCEH%2DB5q87eRztQX%2D2Bl1wF9GRI%2Dd32R%2DUeBikKlW6h_jVhcOrrBrCkKm4Bqp2FQbRNo4STI0YbFCcHTa45fLipmXov7SwjoU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmaG93LXRvLWNyZWF0ZS1hLW1vYmlsZS1nYW1lLWZvci1pb3Mtd2l0aC11bnJlYWwtZW5naW5lLTQlMmYlM2Z1dG1fY2FtcGFpZ24lM2RCRy1TZWFyY2hfRFNBX0JldGFfUHJvZl9sYS5FTl9jYy5ST1ctRW5nbGlzaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWQtc2VhcmNoJTI2cG9ydGZvbGlvJTNkQmluZy1ST1ctRW5nbGlzaCUyNnV0bV9hdWRpZW5jZSUzZG14JTI2dXRtX3RhY3RpYyUzZG5iJTI2dXRtX3Rlcm0lM2RfLl9hZ18xMzI0OTEzODk5OTE4MDExXy5fYWRfXy5fa3dfRGV2JTI1MjBlbiUyNnV0bV9jb250ZW50JTNkcyUyNmZ1bm5lbCUzZCUyNnRlc3QlM2QlMjZ1dG1fY2FtcGFpZ25faWQlM2Q2Mzg1OTYyMjklMjZtc2Nsa2lkJTNkMjZhYzc1YjRmYTNkMWM0NDgyMjExZjQ4ZDViNDU4NjE%26rlid%3D26ac75b4fa3d1c4482211f48d5b45861&vqd=4-336703773281943140669043821275355638123&iurl=%7B1%7DIG%3D8352CCD96480413995262C2B7E679C36%26CID%3D322E95F3631E64B232248DE7627C65AB%26ID%3DDevEx%2C5040.1",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Develop Android games | Android game development | Android Developers",
+          "url": "https://developer.android.com/games",
+          "source": "grounding",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:42:17.999878Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "mobile game development",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "unity",
+      "title": "Unity",
+      "category": "unity",
+      "summary": "So the solutions to the n'th roots of unity of the form z^n = 1 are n-gons on the unit circle. This means for an arbitrary w in the complex field z^n = w gives solutions on a circle with radius n'th root of modulus w and are 2*pi/n apart so it is also an n-gon. Pretty fun stuff to plot around using ... Reading this made me feel like I am in highschool again Reading the title, I thought this was going to be about the origins of the Unity game engine.",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 2,
+      "sources": [
+        "grounding",
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Notes on the Complex Roots of Unity",
+          "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+          "source": "hackernews",
+          "published_at": "2026-10-18"
+        },
+        {
+          "title": "Silver Lake, Saudi Foreign Wealth Fund held talks to buy Unity game engine",
+          "url": "https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Silver Lake, PIF have held recent talks to buy gaming software provider Unity",
+          "url": "https://www.theverge.com/games/1028484/unity-has-reportedly-had-acquisition-talks-with-silver-lake-and-pif",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
+          "url": "https://unity.com/blog/synty-studios-acquisition",
+          "source": "hackernews",
+          "published_at": "2026-11-17"
+        },
+        {
+          "title": "Unity engine - Game Development With Unity",
+          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=6bPPqOjoNUSbethEOb6V9q%2D3K%2DeurvfipfrcBdSva05q5DkIb4p0Wm5lfx7%2DHaAnfIKji88IbPw9%2D9iGzypXgxkzkYsslIR_fLDU1zAGhQdNCosxbvsaj3m3oF2ifZTASlqd3vYL0y2geEtiIZ3jCKhwLzqOaCnm_DF9r2NpY5s.d7Dt_CQNFF2lhQnSpPmxMw&rut=5e49661adc52951c9d1b6f5357a1106ba127bb586f5507da582daec78022aead&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8U_VfK8WhFdamgDV7xXhbwzVUCUyDYg15CRHxEPH1AE24MtXhOz_%2DdOqoZqYGmRdOTSfPtYyxzV5lLMlgCx_kbudl7CXMSDYtaj2guYaq8roS7J%2DX%2DMBJe9U1tHgPKq%2DePaMM55S1BDpag_qSUfXFBFTS9Li8XXblSNSb6j4rQQ2rMSF7a%2D2_927IIX2PMfBxi4hkcpEOtWr8rH6Sq4Ssjxw5AvU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmdGhlLXVsdGltYXRlLWd1aWRlLXRvLWdhbWUtZGV2ZWxvcG1lbnQtd2l0aC11bml0eSUyZiUzZnV0bV9jYW1wYWlnbiUzZEJHLVNlYXJjaF9LZXl3b3JkX0JldGFfUHJvZl9sYS5FTl9jYy5ST1ctRW5nbGlzaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWQtc2VhcmNoJTI2cG9ydGZvbGlvJTNkQmluZy1ST1ctRW5nbGlzaCUyNnV0bV9hdWRpZW5jZSUzZG14JTI2dXRtX3RhY3RpYyUzZG5iJTI2dXRtX3Rlcm0lM2RfLl9hZ18xMzE4MzE2ODMwMjIwNDA1Xy5fYWRfXy5fa3dfVW5pdHklMjUyMGVuZ2luZSUyNnV0bV9jb250ZW50JTNkcyUyNmZ1bm5lbCUzZCUyNnRlc3QlM2QlMjZ1dG1fY2FtcGFpZ25faWQlM2Q2Mzg1OTYyMzIlMjZtc2Nsa2lkJTNkNTg2MDQ3N2E1NmM2MTFjZGM5OWYyZDg2Nzk0ZDA3ZjQ%26rlid%3D5860477a56c611cdc99f2d86794d07f4&vqd=4-106904555981509537329789372252032169600&iurl=%7B1%7DIG%3DF0DF76494AC845E1931E3AACD4631A49%26CID%3D2B6E72B80B056A0712C06AAC0AFD6B56%26ID%3DDevEx%2C5034.1",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity: Develop, Deploy, and Grow | The World's Leading Game Engine",
+          "url": "https://unity.com/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity Engine: 2D & 3D Development Platform | Unity",
+          "url": "https://unity.com/products/unity-engine",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity (game engine) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Unity_(game_engine)",
+          "source": "grounding",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:42:31.530063Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "Unity engine",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "jobs": "ok",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "blender",
+      "title": "Blender",
+      "category": "blender",
+      "summary": "Can I please congratulate you on your README. It rapidly tells me what I'm looking at, and why I might be interested in the project. There are so many READMEs around that ... just don't do that. They ramble about technical implementation details, how their language choice is amazing, and a third of ... I love the general idea behind Blender's UI. And I do appreciate the effort that goes into it, especially in the latest versions as it got much better, But I really really really REALLY don't wan…",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 2,
+      "sources": [
+        "grounding",
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+          "url": "https://github.com/ppmpreetham/BUI",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
+          "title": "Blender 5.3 released with Gaussian Splat support",
+          "url": "https://www.blender.org/download/releases/5-3/",
+          "source": "hackernews",
+          "published_at": "2026-11-10"
+        },
+        {
+          "title": "Blender 3d Assets Online - Rodin: Text/Image to 3D",
+          "url": "https://duckduckgo.com/y.js?ad_domain=hyper3d.ai&ad_provider=bingv7aa&ad_type=txad&click_metadata=j%2D9W%2D4jKT5Pv9O1J9h6ebjPfZCb3m0jdRGCTJ8yLBGhalQxzvNGj3wH_CIzbxfIcAMDClgUfPak9dUmXAuFrxj4furegtnrRs4YnQuzhhm%2DiBUt39o8CTtktMeSe9npNZg22FVdXqQzf6MrtdnJr9A4mgf%2DwOc1OgKnvMAXKle8.5lfMaEQ1ETg7dSTe5aO38g&rut=c45b29d6db3e00c6740a2a9d5b5170ce9fbdd09a624b51cf282494435b9d7ef7&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8G1Y1ozoXDkpPzq7_aafHRjVUCUxR3X7lqPfY5U59Z4SgUqvyxRufhXxcjd%2D0VRKG2ZQaAv4uxizoLxcbGZtZaxj3K_6dqH_pPwOpnlBzRHCTw__QL7KWc9_eKvgXEKJppPVedcE561DDzdk%2D1HvVA0h2Dr502HzNE3JyGsBAP33LdiNmDxaK%2D8wuv5T36n_48kTDdVCPz2epZKaOKaskekTDSkk%26u%3DaHR0cHMlM2ElMmYlMmZoeXBlcjNkLmFpJTNmbXNjbGtpZCUzZDVhMTBkYWU3OTU2NDE5OGRjOTE0YjAxYmJhZmYzODNm%26rlid%3D5a10dae79564198dc914b01bbaff383f&vqd=4-306653467361395604652697392562942434068&iurl=%7B1%7DIG%3D87C3D637139C45E09DD516EC117A8DFB%26CID%3D39808F6F7FE36611145F977B7E1B67D3%26ID%3DDevEx%2C5035.1",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Blender - The Free and Open Source 3D Creation Software — blender.org",
+          "url": "https://www.blender.org/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Download — Blender",
+          "url": "https://www.blender.org/download/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Show HN: Vork – headless 3D and VFX engine for agents",
+          "url": "https://github.com/voyager-so/vork",
+          "source": "hackernews",
+          "published_at": "2026-11-09"
+        },
+        {
+          "title": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+          "url": "https://sketchagent.dev/s/yfYU6LhT",
+          "source": "hackernews",
+          "published_at": "2026-10-26"
+        },
+        {
+          "title": "Meshy 7 for 3D Printing - Make STL Files in Seconds",
+          "url": "https://duckduckgo.com/y.js?ad_domain=meshy.ai&ad_provider=bingv7aa&ad_type=txad&click_metadata=PIEmCjZs5zsJ4MqbMEZuCFtRjWbKLnz4GTPHmRDZnDCLy4XaZIxNfRLkjAEsN3z532ECp0OcvKF9xFNcod0ayXATk2oUVXHduQ3t2S5EvHz205bql36i3HkoRTINCQaIbeQNXrdze7S5O_hAYXyy_GiV%2DE4hvuMCM1MHxFJSQ1U.KpB4puHc9F_F9E3sF%2DE9GQ&rut=7b337523f2e8b1fa4c5b635bd751bdf212cd21afbdd2d82dbd052d293bd601cc&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8oL0TenoQr4NA7BD2lkzJkDVUCUwhf_124Pu1LkTWdnkKmj9v2ULIhRqPQiUNRyGTGyUtQ3zW4QIYn7nHh8qtDf5cCt1N2lSZSjHA3vESPL2_2oLEufJ3yK4XD2l34tt79spVcam9E5wH2dlbA58TB8B9p61L5H1%2Dulbgf_KBi1eaXfDavWMmR_CKrePU0G6WECEniFTHSUbUVKhNTY_Ko1Sggz4%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cubWVzaHkuYWklMmYlM2Z1dG1fY29udGVudCUzZDExNzY0Nzk4MDE0NTgwMzYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwbWF4JTI2dXRtX2NhbXBhaWduJTNkNTcxNTU0NzU0JTI2bXNjbGtpZCUzZDgzNWZhYjgxMmZiMDFiNWIwMWY4YzE3ZDAwMmJhNzIzJTI2dXRtX3Rlcm0lM2R3d3cubWVzaHkuYWklMjZ1dG1fY29udGVudCUzZEFJJTI1MjAzRCUyNTIwR2VuZXJhdGlvbg%26rlid%3D835fab812fb01b5b01f8c17d002ba723&vqd=4-298169264625387393846367694781863966212&iurl=%7B1%7DIG%3D87C3D637139C45E09DD516EC117A8DFB%26CID%3D39808F6F7FE36611145F977B7E1B67D3%26ID%3DDevEx%2C5040.1",
+          "source": "grounding",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:19.658868Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "Blender 3D",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "jobs": "timeout",
+        "reddit": "auth-failed"
+      }
+    },
+    {
+      "id": "game-dev-tools",
+      "title": "Game Development Tools",
+      "category": "tools",
+      "summary": "Indie Game Development with AI",
+      "momentum": null,
+      "velocity_score": null,
+      "source_count": 2,
+      "sources": [
+        "grounding",
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Indie Game Development with AI",
+          "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+          "source": "hackernews",
+          "published_at": "2026-11-09"
+        },
+        {
+          "title": "A great old-timey game-programming hack (2013)",
+          "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+          "source": "hackernews",
+          "published_at": "2026-11-11"
+        },
+        {
+          "title": "The October inflection point for vibe game development",
+          "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+          "source": "hackernews",
+          "published_at": "2026-10-28"
+        },
+        {
+          "title": "Online Game Developer Courses - Earn Your Game Development",
+          "url": "https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=fbAsUTCXGg_8qM_HHirk20yjx8jBrG%2DfJOkjqk2OiDyueqQU5SZlk8BSpStEB4vOuoGUEpTw40EYPW3lLKvPffYDJkYRLtudn1Pp8NBy5%2Diswgsfi%2D34q0_XXDtKjmUgEi%2D0OQuKJ5WHWHXNc62ZB_iBa2n06thv3MtzFwzWTG8._VDZqREgdypdSiUbeft4BA&rut=1b7f2de0f4dd328e4f60104459b4cf80fee7870602ea3116a93db426c3f5b68b&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8bFoEVNmMWeoOPCATaevsMjVUCUygakJsto3zSP0WfazAv5kCk2bDnGFx2iC2W9PehmwCZeV6BytanenkgTkXbVkmneW%2DhMM6hjtplfWHrvVVJzfV9ENHUBhH8UaiwC9lzRm0RF2%2DELETL3tj%2DIMUIef5bfMGn23r_LdG8_YtaxHXUHLzZGdqahSPXgvZM7pfwFckh38jcm1my7XnlaoCWunaEwA%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmdGhlLWdhbWUtZGV2ZWxvcGVyLWJvb3RjYW1wJTJmJTNmdXRtX2NhbXBhaWduJTNkQkctU2VhcmNoX0RTQV9CZXRhX1Byb2ZfbGEuRU5fY2MuUk9XLUVuZ2xpc2glMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnBvcnRmb2xpbyUzZEJpbmctUk9XLUVuZ2xpc2glMjZ1dG1fYXVkaWVuY2UlM2RteCUyNnV0bV90YWN0aWMlM2RuYiUyNnV0bV90ZXJtJTNkXy5fYWdfMTMyNDkxMzg5OTkxODAxMV8uX2FkX18uX2t3X0RldiUyNTIwZW4lMjZ1dG1fY29udGVudCUzZHMlMjZmdW5uZWwlM2QlMjZ0ZXN0JTNkJTI2dXRtX2NhbXBhaWduX2lkJTNkNjM4NTk2MjI5JTI2bXNjbGtpZCUzZDljMDc5ZTg5OTg2MzFiMTkwYTYzZjQ3NWI3YWE4ZWZm%26rlid%3D9c079e8998631b190a63f475b7aa8eff&vqd=4-307790184561223716740478253090095500147&iurl=%7B1%7DIG%3D1EF23151A25544B1A26D5CA65E407272%26CID%3D15C69E30BEC96BB121918624BFAB6AD6%26ID%3DDevEx%2C5034.1",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Video game development - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Video_game_development",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "How to Get Started with Game Development - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/how-to-get-started-with-game-development/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "GDevelop: Free, Fast, Easy Game Engine - No-code, AI-assisted ...",
+          "url": "https://gdevelop.io/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "What Is a Game Developer (and How to Become One)?",
+          "url": "https://www.coursera.org/articles/game-developer",
+          "source": "grounding",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:36.101154Z",
+      "coverage": "partial",
+      "origin": "research",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "game development tools",
+      "research_status": {
+        "grounding": "ok",
+        "hackernews": "ok",
+        "reddit": "timeout"
+      }
+    },
+    {
+      "id": "discovery-windows-11",
+      "title": "Windows 11",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 1,083 native interactions. Windows 11 is collecting data on which coding agents and developer tools you use",
+      "momentum": "new-this-week",
+      "velocity_score": 1148.69,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Windows 11",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-maxwell-model-maxwell-v1-flash-hugging-face",
+      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+      "category": "ai",
+      "summary": "1 listing item on reddit generated 234 native interactions. # Model Introduction **Maxwell-V1.0-Flash** is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with **35B total parameters and 3B active parameters per token**",
+      "momentum": "new-this-week",
+      "velocity_score": 351.0,
+      "source_count": 1,
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-postman-silently-auto-installs-ai-api",
+      "title": "Postman silently auto-installs AI API",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
+      "momentum": "building",
+      "velocity_score": 524.92,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Postman silently auto-installs AI API",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-17T10:43:36.150336Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-generative-ai-non-english",
+      "title": "Generative AI non-English",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 323 native interactions. Generative AI uses more energy on non-English text",
+      "momentum": "new-this-week",
+      "velocity_score": 197.8,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Generative AI non-English",
+          "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-15T10:27:44.939495Z",
+      "coverage": "cached",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    }
+  ],
+  "source_status": {
+    "digg": "skipped-unconfigured",
+    "grounding": "ok",
+    "hackernews": "ok",
+    "jobs": "timeout",
+    "reddit": "auth-failed",
+    "x": "skipped-unconfigured"
+  },
+  "warnings": [
+    "Discovery không có chủ đề vượt ngưỡng.",
+    "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
+    "Nguồn suy giảm: jobs=timeout, reddit=auth-failed."
+  ],
+  "engine": {
+    "name": "last30days",
+    "version": "v3.39.0",
+    "commit": "f918b496b021fbc4db270ff3442fabf373a4a5f4"
+  }
+}
