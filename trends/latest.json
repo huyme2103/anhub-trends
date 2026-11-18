@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-17T11:56:13.689046Z",
+  "generated_at": "2026-11-18T08:35:26.810346Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -28,6 +28,12 @@
           "url": "https://pietromiotti.com/latest/maya-site",
           "source": "hackernews",
           "published_at": "2026-11-11"
+        },
+        {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "source": "hackernews",
+          "published_at": "2026-11-17"
         },
         {
           "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
@@ -58,15 +64,9 @@
           "url": "https://news.ycombinator.com/item?id=50403153",
           "source": "hackernews",
           "published_at": "2026-11-07"
-        },
-        {
-          "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-          "source": "hackernews",
-          "published_at": "2026-11-04"
         }
       ],
-      "researched_at": "2026-11-17T11:55:31.183074Z",
+      "researched_at": "2026-11-18T08:34:53.358599Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -74,7 +74,7 @@
       "research_status": {
         "grounding": "ok",
         "hackernews": "ok",
-        "jobs": "timeout",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -97,16 +97,16 @@
           "published_at": "2026-11-13"
         },
         {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "source": "hackernews",
+          "published_at": "2026-11-17"
+        },
+        {
           "title": "LayerFS: A filesystem for AI coding agents",
           "url": "https://layerfs.ai/",
           "source": "hackernews",
           "published_at": "2026-10-21"
-        },
-        {
-          "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
-          "url": "https://news.ycombinator.com/item?id=50307060",
-          "source": "hackernews",
-          "published_at": "2026-10-30"
         },
         {
           "title": "Ask HN: Who's really winning with AI-Coding?",
@@ -115,10 +115,10 @@
           "published_at": "2026-11-16"
         },
         {
-          "title": "Ask HN: AI Coding Preference",
-          "url": "https://news.ycombinator.com/item?id=50374297",
+          "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
+          "url": "https://news.ycombinator.com/item?id=50307060",
           "source": "hackernews",
-          "published_at": "2026-11-05"
+          "published_at": "2026-10-30"
         },
         {
           "title": "AI coding agent setups from 663 Hacker News comments",
@@ -127,25 +127,25 @@
           "published_at": "2026-11-06"
         },
         {
+          "title": "Ask HN: AI Coding Preference",
+          "url": "https://news.ycombinator.com/item?id=50374297",
+          "source": "hackernews",
+          "published_at": "2026-11-05"
+        },
+        {
           "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
           "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
           "source": "hackernews",
           "published_at": "2026-11-04"
-        },
-        {
-          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
-          "url": "https://finance.biggo.com/news/71888475bad974d6",
-          "source": "hackernews",
-          "published_at": "2026-11-15"
         }
       ],
-      "researched_at": "2026-11-17T11:55:45.005491Z",
+      "researched_at": "2026-11-18T08:35:03.798333Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI coding tools",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -212,13 +212,13 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-17T11:55:51.346784Z",
+      "researched_at": "2026-11-18T08:35:07.465873Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI models",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -255,7 +255,7 @@
           "published_at": "2026-10-25"
         }
       ],
-      "researched_at": "2026-11-17T11:55:52.708732Z",
+      "researched_at": "2026-11-18T08:35:08.567698Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -270,7 +270,7 @@
       "id": "unity",
       "title": "Unity",
       "category": "unity",
-      "summary": "So the solutions to the n'th roots of unity of the form z^n = 1 are n-gons on the unit circle. This means for an arbitrary w in the complex field z^n = w gives solutions on a circle with radius n'th root of modulus w and are 2*pi/n apart so it is also an n-gon. Pretty fun stuff to plot around using ... Reading this made me feel like I am in highschool again Reading the title, I thought this was going to be about the origins of the Unity game engine.",
+      "summary": "Silver Lake, Saudi Foreign Wealth Fund held talks to buy Unity game engine",
       "momentum": null,
       "velocity_score": null,
       "source_count": 1,
@@ -278,12 +278,6 @@
         "hackernews"
       ],
       "evidence": [
-        {
-          "title": "Notes on the Complex Roots of Unity",
-          "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-          "source": "hackernews",
-          "published_at": "2026-10-18"
-        },
         {
           "title": "Silver Lake, Saudi Foreign Wealth Fund held talks to buy Unity game engine",
           "url": "https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/",
@@ -303,7 +297,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-17T11:56:07.145108Z",
+      "researched_at": "2026-11-18T08:35:20.332100Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -352,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-17T11:56:12.101454Z",
+      "researched_at": "2026-11-18T08:35:23.785044Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -393,9 +387,15 @@
           "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
           "source": "hackernews",
           "published_at": "2026-10-28"
+        },
+        {
+          "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+          "url": "https://tng.episodle.com/",
+          "source": "hackernews",
+          "published_at": "2026-10-30"
         }
       ],
-      "researched_at": "2026-11-17T11:56:13.658706Z",
+      "researched_at": "2026-11-18T08:35:26.777272Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -405,6 +405,136 @@
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
+    },
+    {
+      "id": "discovery-harvard-researchers-find-ai",
+      "title": "Harvard researchers find AI",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 390 native interactions. Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "momentum": "new-this-week",
+      "velocity_score": 413.66,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Harvard researchers find AI",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-18T08:35:26.810346Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-y-all-2025",
+      "title": "Y'all 2025",
+      "category": "ai",
+      "summary": "1 listing item on reddit generated 232 native interactions. Everyday on /r/LocalLLaMA i see people starting hell about if a comment/post is an llm-genned slop. And I still see people joking about em-dashes or \"load-bearing\" as some indicator of slop. I haven't seen any recent mod",
+      "momentum": "new-this-week",
+      "velocity_score": 348.0,
+      "source_count": 1,
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "title": "Y'all 2025",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xz6tv9/yalls_idea_of_slop_is_stuck_in_2025/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-18T08:35:26.810346Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-google-ai-40",
+      "title": "Google AI 40",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 598 native interactions. Google's AI answers reducing search traffic by 40%",
+      "momentum": "new-this-week",
+      "velocity_score": 897.0,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Google AI 40",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-18T08:35:26.810346Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-ai-is-killing-all-about-berlin",
+      "title": "AI is killing All About Berlin",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 347 native interactions. AI is killing All About Berlin",
+      "momentum": "new-this-week",
+      "velocity_score": 520.5,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "AI is killing All About Berlin",
+          "url": "https://nicolasbouliane.com/blog/death-by-ai",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-18T08:35:26.810346Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-postman-silently-auto-installs-ai-api",
+      "title": "Postman silently auto-installs AI API",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
+      "momentum": "building",
+      "velocity_score": 508.25,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Postman silently auto-installs AI API",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-18T08:35:26.810346Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
     },
     {
       "id": "discovery-windows-11",
@@ -426,36 +556,10 @@
         }
       ],
       "researched_at": "2026-11-17T11:56:13.689046Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-postman-silently-auto-installs-ai-api",
-      "title": "Postman silently auto-installs AI API",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
-      "momentum": "building",
-      "velocity_score": 524.92,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Postman silently auto-installs AI API",
-          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-17T11:56:13.689046Z",
-      "coverage": "discovery",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
       "research_status": {}
     },
     {
@@ -515,15 +619,16 @@
     "digg": "skipped-unconfigured",
     "grounding": "unreachable",
     "hackernews": "ok",
-    "jobs": "timeout",
+    "jobs": "no-results",
     "reddit": "auth-failed",
     "x": "skipped-unconfigured"
   },
   "warnings": [
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
-    "Nguồn suy giảm: grounding=unreachable, jobs=timeout, reddit=auth-failed."
+    "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
   ],
   "engine": {
     "name": "last30days",
