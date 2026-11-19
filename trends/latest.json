@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-18T08:35:26.810346Z",
+  "generated_at": "2026-11-19T08:51:05.315491Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -24,16 +24,22 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "My AI agents found an unmapped Maya site?",
-          "url": "https://pietromiotti.com/latest/maya-site",
-          "source": "hackernews",
-          "published_at": "2026-11-11"
-        },
-        {
           "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
           "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
           "source": "hackernews",
           "published_at": "2026-11-17"
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "hackernews",
+          "published_at": "2026-11-18"
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "source": "hackernews",
+          "published_at": "2026-11-11"
         },
         {
           "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
@@ -54,19 +60,13 @@
           "published_at": "2026-10-28"
         },
         {
-          "title": "Perplexity launches AI agents for work",
-          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-          "source": "hackernews",
-          "published_at": "2026-11-06"
-        },
-        {
           "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
           "url": "https://news.ycombinator.com/item?id=50403153",
           "source": "hackernews",
           "published_at": "2026-11-07"
         }
       ],
-      "researched_at": "2026-11-18T08:34:53.358599Z",
+      "researched_at": "2026-11-19T08:50:18.014565Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -139,7 +139,7 @@
           "published_at": "2026-11-04"
         }
       ],
-      "researched_at": "2026-11-18T08:35:03.798333Z",
+      "researched_at": "2026-11-19T08:50:28.038883Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -212,7 +212,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-18T08:35:07.465873Z",
+      "researched_at": "2026-11-19T08:50:43.973615Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -255,7 +255,7 @@
           "published_at": "2026-10-25"
         }
       ],
-      "researched_at": "2026-11-18T08:35:08.567698Z",
+      "researched_at": "2026-11-19T08:50:45.255451Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -297,7 +297,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-18T08:35:20.332100Z",
+      "researched_at": "2026-11-19T08:50:59.660330Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -346,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-18T08:35:23.785044Z",
+      "researched_at": "2026-11-19T08:51:03.508698Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -395,7 +395,7 @@
           "published_at": "2026-10-30"
         }
       ],
-      "researched_at": "2026-11-18T08:35:26.777272Z",
+      "researched_at": "2026-11-19T08:51:05.285471Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -405,6 +405,58 @@
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
+    },
+    {
+      "id": "discovery-ai-kpmg-accountants",
+      "title": "AI KPMG accountants",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 652 native interactions. AI agents ask better questions than KPMG accountants in audit trial",
+      "momentum": "new-this-week",
+      "velocity_score": 691.55,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "AI KPMG accountants",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-19T08:51:05.315491Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI agents",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-postman-silently-auto-installs-ai-api",
+      "title": "Postman silently auto-installs AI API",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
+      "momentum": "building",
+      "velocity_score": 493.07,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Postman silently auto-installs AI API",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-19T08:51:05.315491Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
     },
     {
       "id": "discovery-harvard-researchers-find-ai",
@@ -426,7 +478,7 @@
         }
       ],
       "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
@@ -452,7 +504,7 @@
         }
       ],
       "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
@@ -478,7 +530,7 @@
         }
       ],
       "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -504,33 +556,7 @@
         }
       ],
       "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "discovery",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-postman-silently-auto-installs-ai-api",
-      "title": "Postman silently auto-installs AI API",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
-      "momentum": "building",
-      "velocity_score": 508.25,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Postman silently auto-installs AI API",
-          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -625,8 +651,12 @@
   },
   "warnings": [
     "Discovery không có chủ đề vượt ngưỡng.",
+    "Giữ chủ đề cũ AI is killing All About Berlin do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
     "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
   ],
