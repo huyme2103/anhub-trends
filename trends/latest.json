@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-20T08:35:54.834737Z",
+  "generated_at": "2026-11-21T08:19:16.160408Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -24,16 +24,22 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-          "source": "hackernews",
-          "published_at": "2026-11-17"
-        },
-        {
           "title": "AI agents ask better questions than KPMG accountants in audit trial",
           "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
           "source": "hackernews",
           "published_at": "2026-11-18"
+        },
+        {
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "url": "https://signal.org/blog/protecting-your-privacy/",
+          "source": "hackernews",
+          "published_at": "2026-11-20"
+        },
+        {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "source": "hackernews",
+          "published_at": "2026-11-17"
         },
         {
           "title": "My AI agents found an unmapped Maya site?",
@@ -42,31 +48,25 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "source": "hackernews",
-          "published_at": "2026-10-22"
-        },
-        {
           "title": "Basically no one is using AI agents for their DoorDash orders",
           "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
           "source": "hackernews",
           "published_at": "2026-11-02"
         },
         {
+          "title": "Perplexity launches AI agents for work",
+          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+          "source": "hackernews",
+          "published_at": "2026-11-06"
+        },
+        {
           "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
           "url": "https://surgehq.ai/blog/dayjob-tax",
           "source": "hackernews",
           "published_at": "2026-10-28"
-        },
-        {
-          "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-          "url": "https://news.ycombinator.com/item?id=50403153",
-          "source": "hackernews",
-          "published_at": "2026-11-07"
         }
       ],
-      "researched_at": "2026-11-20T08:35:29.150054Z",
+      "researched_at": "2026-11-21T08:18:51.686105Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -82,14 +82,20 @@
       "id": "ai-coding",
       "title": "AI Coding",
       "category": "ai",
-      "summary": "Blow argues software development hasn't advanced much since the early 2000s. As a game developer, I want to offer a counter point. In the last 3 years, there have been a lot more indie games of far higher quality than we used to get. I'm thinking of the RTS space right now. The Scouring for example.... It's because the hard part of making software is not coding, but deciding what's worth building (even with LLMs), appropriately modelling the problem and designing the solution (at a conceptual,…",
-      "momentum": null,
-      "velocity_score": null,
+      "summary": "As much as epic seems to like AI coding, they are still failing at the basics. I develop games with them, and know other devs who also do, all of us using AI extensively. None of us use the official unreal engine MCPs and similar tools, because they are simply almost useless. We all run our own, and... Start with fixing basic problems with the engine that show up in almost every game that utilizes it. I think the launch of GTA VI shows the value in having your own engine. I don’t believe that g…",
+      "momentum": "new-this-week",
+      "velocity_score": 259.86,
       "source_count": 1,
       "sources": [
         "hackernews"
       ],
       "evidence": [
+        {
+          "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+          "source": "hackernews",
+          "published_at": "2026-11-20"
+        },
         {
           "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
           "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
@@ -101,12 +107,6 @@
           "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
           "source": "hackernews",
           "published_at": "2026-11-17"
-        },
-        {
-          "title": "LayerFS: A filesystem for AI coding agents",
-          "url": "https://layerfs.ai/",
-          "source": "hackernews",
-          "published_at": "2026-10-21"
         },
         {
           "title": "Ask HN: Who's really winning with AI-Coding?",
@@ -139,7 +139,7 @@
           "published_at": "2026-11-19"
         }
       ],
-      "researched_at": "2026-11-20T08:35:39.888098Z",
+      "researched_at": "2026-11-21T08:19:01.735302Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -170,7 +170,7 @@
           "published_at": "2026-11-10"
         },
         {
-          "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
           "url": "https://thedataexchange.media/pete-warden-moonshine/",
           "source": "hackernews",
           "published_at": "2026-11-19"
@@ -212,7 +212,7 @@
           "published_at": "2026-11-16"
         }
       ],
-      "researched_at": "2026-11-20T08:35:44.604416Z",
+      "researched_at": "2026-11-21T08:19:05.730144Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -255,7 +255,7 @@
           "published_at": "2026-10-25"
         }
       ],
-      "researched_at": "2026-11-20T08:35:46.023563Z",
+      "researched_at": "2026-11-21T08:19:07.185564Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -297,7 +297,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-20T08:35:48.927026Z",
+      "researched_at": "2026-11-21T08:19:09.257719Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -346,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-20T08:35:53.190036Z",
+      "researched_at": "2026-11-21T08:19:14.592296Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -395,7 +395,7 @@
           "published_at": "2026-10-30"
         }
       ],
-      "researched_at": "2026-11-20T08:35:54.805732Z",
+      "researched_at": "2026-11-21T08:19:16.130819Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -407,12 +407,38 @@
       }
     },
     {
+      "id": "discovery-nasdaq-2026-ai-sell-off-dampens-anthropic",
+      "title": "Nasdaq 2026 AI sell-off dampens Anthropic",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 816 native interactions. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "momentum": "new-this-week",
+      "velocity_score": 865.5,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Nasdaq 2026 AI sell-off dampens Anthropic",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-21T08:19:16.160408Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
       "id": "discovery-postman-silently-auto-installs-ai-api",
       "title": "Postman silently auto-installs AI API",
       "category": "ai",
       "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
       "momentum": "building",
-      "velocity_score": 479.18,
+      "velocity_score": 466.4,
       "source_count": 1,
       "sources": [
         "hackernews"
@@ -425,7 +451,7 @@
           "published_at": null
         }
       ],
-      "researched_at": "2026-11-20T08:35:54.834737Z",
+      "researched_at": "2026-11-21T08:19:16.160408Z",
       "coverage": "discovery",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -452,7 +478,7 @@
         }
       ],
       "researched_at": "2026-11-20T08:35:54.834737Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -478,7 +504,7 @@
         }
       ],
       "researched_at": "2026-11-20T08:35:54.834737Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -702,13 +728,15 @@
     "x": "skipped-unconfigured"
   },
   "warnings": [
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Looking for Agentic AI project ideas).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Give AI Full-Stack Chat PDF wrappers).",
     "Discovery không có chủ đề vượt ngưỡng.",
+    "Giữ chủ đề cũ AI Jacob Coxon Robin Hanson do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI KPMG accountants do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI is killing All About Berlin do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Pete AI do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
