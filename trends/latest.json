@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-21T08:19:16.160408Z",
+  "generated_at": "2026-11-22T08:02:54.390358Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -24,16 +24,16 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "AI agents ask better questions than KPMG accountants in audit trial",
-          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-          "source": "hackernews",
-          "published_at": "2026-11-18"
-        },
-        {
           "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
           "url": "https://signal.org/blog/protecting-your-privacy/",
           "source": "hackernews",
           "published_at": "2026-11-20"
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "hackernews",
+          "published_at": "2026-11-18"
         },
         {
           "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
@@ -54,10 +54,10 @@
           "published_at": "2026-11-02"
         },
         {
-          "title": "Perplexity launches AI agents for work",
-          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+          "title": "Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
           "source": "hackernews",
-          "published_at": "2026-11-06"
+          "published_at": "2026-11-21"
         },
         {
           "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
@@ -66,7 +66,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-21T08:18:51.686105Z",
+      "researched_at": "2026-11-22T08:01:45.634037Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -82,20 +82,14 @@
       "id": "ai-coding",
       "title": "AI Coding",
       "category": "ai",
-      "summary": "As much as epic seems to like AI coding, they are still failing at the basics. I develop games with them, and know other devs who also do, all of us using AI extensively. None of us use the official unreal engine MCPs and similar tools, because they are simply almost useless. We all run our own, and... Start with fixing basic problems with the engine that show up in almost every game that utilizes it. I think the launch of GTA VI shows the value in having your own engine. I don’t believe that g…",
-      "momentum": "new-this-week",
-      "velocity_score": 259.86,
+      "summary": "Blow argues software development hasn't advanced much since the early 2000s. As a game developer, I want to offer a counter point. In the last 3 years, there have been a lot more indie games of far higher quality than we used to get. I'm thinking of the RTS space right now. The Scouring for example.... It's because the hard part of making software is not coding, but deciding what's worth building (even with LLMs), appropriately modelling the problem and designing the solution (at a conceptual,…",
+      "momentum": null,
+      "velocity_score": null,
       "source_count": 1,
       "sources": [
         "hackernews"
       ],
       "evidence": [
-        {
-          "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-          "source": "hackernews",
-          "published_at": "2026-11-20"
-        },
         {
           "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
           "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
@@ -107,6 +101,12 @@
           "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
           "source": "hackernews",
           "published_at": "2026-11-17"
+        },
+        {
+          "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+          "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+          "source": "hackernews",
+          "published_at": "2026-11-20"
         },
         {
           "title": "Ask HN: Who's really winning with AI-Coding?",
@@ -139,13 +139,13 @@
           "published_at": "2026-11-19"
         }
       ],
-      "researched_at": "2026-11-21T08:19:01.735302Z",
+      "researched_at": "2026-11-22T08:01:57.937338Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI coding tools",
       "research_status": {
-        "grounding": "unreachable",
+        "grounding": "ok",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -182,22 +182,16 @@
           "published_at": "2026-11-12"
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "hackernews",
-          "published_at": "2026-10-25"
-        },
-        {
           "title": "Closed AI models dominate the price-performance frontier",
           "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
           "source": "hackernews",
           "published_at": "2026-11-06"
         },
         {
-          "title": "Every AI model has the same \"controversial\" take on humans",
-          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "source": "hackernews",
-          "published_at": "2026-10-22"
+          "published_at": "2026-10-25"
         },
         {
           "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
@@ -210,15 +204,21 @@
           "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
           "source": "hackernews",
           "published_at": "2026-11-16"
+        },
+        {
+          "title": "Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "hackernews",
+          "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-21T08:19:05.730144Z",
+      "researched_at": "2026-11-22T08:02:06.747122Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI models",
       "research_status": {
-        "grounding": "unreachable",
+        "grounding": "ok",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -255,7 +255,7 @@
           "published_at": "2026-10-25"
         }
       ],
-      "researched_at": "2026-11-21T08:19:07.185564Z",
+      "researched_at": "2026-11-22T08:02:20.866587Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -297,7 +297,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-21T08:19:09.257719Z",
+      "researched_at": "2026-11-22T08:02:45.246102Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -305,7 +305,7 @@
       "research_status": {
         "grounding": "unreachable",
         "hackernews": "ok",
-        "jobs": "no-results",
+        "jobs": "timeout",
         "reddit": "auth-failed"
       }
     },
@@ -346,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-21T08:19:14.592296Z",
+      "researched_at": "2026-11-22T08:02:52.400909Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -395,7 +395,7 @@
           "published_at": "2026-10-30"
         }
       ],
-      "researched_at": "2026-11-21T08:19:16.130819Z",
+      "researched_at": "2026-11-22T08:02:54.362571Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -405,6 +405,32 @@
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
+    },
+    {
+      "id": "discovery-postman-silently-auto-installs-ai-api",
+      "title": "Postman silently auto-installs AI API",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
+      "momentum": "building",
+      "velocity_score": 454.59,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Postman silently auto-installs AI API",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-22T08:02:54.390358Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
     },
     {
       "id": "discovery-nasdaq-2026-ai-sell-off-dampens-anthropic",
@@ -426,33 +452,7 @@
         }
       ],
       "researched_at": "2026-11-21T08:19:16.160408Z",
-      "coverage": "discovery",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-postman-silently-auto-installs-ai-api",
-      "title": "Postman silently auto-installs AI API",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
-      "momentum": "building",
-      "velocity_score": 466.4,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Postman silently auto-installs AI API",
-          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-21T08:19:16.160408Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -723,12 +723,12 @@
     "digg": "skipped-unconfigured",
     "grounding": "unreachable",
     "hackernews": "ok",
-    "jobs": "no-results",
+    "jobs": "timeout",
     "reddit": "auth-failed",
     "x": "skipped-unconfigured"
   },
   "warnings": [
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Give AI Full-Stack Chat PDF wrappers).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Pandex Official European Law AI Agents).",
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ AI Jacob Coxon Robin Hanson do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI KPMG accountants do lần chạy này thiếu dữ liệu.",
@@ -736,11 +736,12 @@
     "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Nasdaq 2026 AI sell-off dampens Anthropic do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Pete AI do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
-    "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
+    "Nguồn suy giảm: grounding=unreachable, jobs=timeout, reddit=auth-failed."
   ],
   "engine": {
     "name": "last30days",
