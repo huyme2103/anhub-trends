@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-22T08:02:54.390358Z",
+  "generated_at": "2026-11-23T09:09:42.793081Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -48,16 +48,16 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "Basically no one is using AI agents for their DoorDash orders",
-          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-          "source": "hackernews",
-          "published_at": "2026-11-02"
-        },
-        {
           "title": "Pandex – Official European Law for AI Agents, over MCP",
           "url": "https://www.pandex.io",
           "source": "hackernews",
           "published_at": "2026-11-21"
+        },
+        {
+          "title": "Basically no one is using AI agents for their DoorDash orders",
+          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "source": "hackernews",
+          "published_at": "2026-11-02"
         },
         {
           "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
@@ -66,7 +66,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-22T08:01:45.634037Z",
+      "researched_at": "2026-11-23T09:08:55.712813Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -139,7 +139,7 @@
           "published_at": "2026-11-19"
         }
       ],
-      "researched_at": "2026-11-22T08:01:57.937338Z",
+      "researched_at": "2026-11-23T09:09:20.380948Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -212,7 +212,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-22T08:02:06.747122Z",
+      "researched_at": "2026-11-23T09:09:31.809240Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -231,8 +231,9 @@
       "summary": "Ask HN: What is the most secure OS for mobile phone?",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -241,6 +242,18 @@
           "url": "https://news.ycombinator.com/item?id=50390644",
           "source": "hackernews",
           "published_at": "2026-11-06"
+        },
+        {
+          "title": "Mobile Game Development Software & Engine | Unity",
+          "url": "https://unity.com/solutions/mobile",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "What Is Mobile Game Development? Beginner's Guide",
+          "url": "https://www.cubix.co/blog/what-is-mobile-game-development-a-beginners-guide/",
+          "source": "grounding",
+          "published_at": null
         },
         {
           "title": "Herdr Releases Mobile Apps",
@@ -253,15 +266,33 @@
           "url": "https://arxiv.org/abs/2609.21544",
           "source": "hackernews",
           "published_at": "2026-10-25"
+        },
+        {
+          "title": "Best mobile game engines 2026 - Unity, Unreal, Godot",
+          "url": "https://appradar.com/blog/mobile-game-engines-development-platforms",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Develop Android games | Android game development | Android Developers",
+          "url": "https://developer.android.com/games",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Android game development | Android Developers",
+          "url": "https://developer.android.com/games/downloads",
+          "source": "grounding",
+          "published_at": null
         }
       ],
-      "researched_at": "2026-11-22T08:02:20.866587Z",
+      "researched_at": "2026-11-23T09:09:33.132675Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "mobile game development",
       "research_status": {
-        "grounding": "unreachable",
+        "grounding": "ok",
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
@@ -273,8 +304,9 @@
       "summary": "Silver Lake, Saudi Foreign Wealth Fund held talks to buy Unity game engine",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -295,17 +327,47 @@
           "url": "https://unity.com/blog/synty-studios-acquisition",
           "source": "hackernews",
           "published_at": "2026-11-17"
+        },
+        {
+          "title": "Unity: Develop, Deploy, and Grow | The World's Leading Game Engine",
+          "url": "https://unity.com/",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity Engine: 2D & 3D Development Platform | Unity",
+          "url": "https://unity.com/products/unity-engine",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity (game engine) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Unity_(game_engine)",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Unity",
+          "url": "https://create.unity.com/choose-unity-to-create",
+          "source": "grounding",
+          "published_at": null
+        },
+        {
+          "title": "Install the Unity Hub",
+          "url": "https://docs.unity.com/en-us/hub/install-hub",
+          "source": "grounding",
+          "published_at": null
         }
       ],
-      "researched_at": "2026-11-22T08:02:45.246102Z",
+      "researched_at": "2026-11-23T09:09:36.106797Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "Unity engine",
       "research_status": {
-        "grounding": "unreachable",
+        "grounding": "ok",
         "hackernews": "ok",
-        "jobs": "timeout",
+        "jobs": "no-results",
         "reddit": "auth-failed"
       }
     },
@@ -346,7 +408,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-22T08:02:52.400909Z",
+      "researched_at": "2026-11-23T09:09:40.962360Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -387,15 +449,9 @@
           "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
           "source": "hackernews",
           "published_at": "2026-10-28"
-        },
-        {
-          "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-          "url": "https://tng.episodle.com/",
-          "source": "hackernews",
-          "published_at": "2026-10-30"
         }
       ],
-      "researched_at": "2026-11-22T08:02:54.362571Z",
+      "researched_at": "2026-11-23T09:09:42.763112Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -407,12 +463,64 @@
       }
     },
     {
+      "id": "discovery-perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 970 native interactions. Perplexity and Intelligence",
+      "momentum": "new-this-week",
+      "velocity_score": 1028.84,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-23T09:09:42.793081Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-beginner-guide-local-ai-inkling-qwen",
+      "title": "Beginner Guide Local AI Inkling Qwen",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 680 native interactions. A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "momentum": "new-this-week",
+      "velocity_score": 721.25,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "Beginner Guide Local AI Inkling Qwen",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-23T09:09:42.793081Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI",
+      "research_status": {}
+    },
+    {
       "id": "discovery-postman-silently-auto-installs-ai-api",
       "title": "Postman silently auto-installs AI API",
       "category": "ai",
       "summary": "1 listing item on hackernews generated 2,033 native interactions. Postman silently auto-installs AI plugins and attempts to share all API data",
       "momentum": "building",
-      "velocity_score": 454.59,
+      "velocity_score": 443.64,
       "source_count": 1,
       "sources": [
         "hackernews"
@@ -425,11 +533,37 @@
           "published_at": null
         }
       ],
-      "researched_at": "2026-11-22T08:02:54.390358Z",
+      "researched_at": "2026-11-23T09:09:42.793081Z",
       "coverage": "discovery",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
+      "research_status": {}
+    },
+    {
+      "id": "discovery-llm",
+      "title": "LLM",
+      "category": "game",
+      "summary": "1 listing item on hackernews generated 389 native interactions. Show HN: I built a game where you are an LLM's subagent",
+      "momentum": "new-this-week",
+      "velocity_score": 412.6,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "LLM",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-23T09:09:42.793081Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "game development",
       "research_status": {}
     },
     {
@@ -691,49 +825,23 @@
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
       "research_status": {}
-    },
-    {
-      "id": "discovery-generative-ai-non-english",
-      "title": "Generative AI non-English",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 323 native interactions. Generative AI uses more energy on non-English text",
-      "momentum": "new-this-week",
-      "velocity_score": 197.8,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Generative AI non-English",
-          "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-15T10:27:44.939495Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
     }
   ],
   "source_status": {
     "digg": "skipped-unconfigured",
     "grounding": "unreachable",
     "hackernews": "ok",
-    "jobs": "timeout",
+    "jobs": "no-results",
     "reddit": "auth-failed",
     "x": "skipped-unconfigured"
   },
   "warnings": [
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Pandex Official European Law AI Agents).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Give LangGraph WhatsApp).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Localcode Mac).",
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ AI Jacob Coxon Robin Hanson do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI KPMG accountants do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI is killing All About Berlin do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Generative AI non-English do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Nasdaq 2026 AI sell-off dampens Anthropic do lần chạy này thiếu dữ liệu.",
@@ -741,7 +849,7 @@
     "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
-    "Nguồn suy giảm: grounding=unreachable, jobs=timeout, reddit=auth-failed."
+    "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
   ],
   "engine": {
     "name": "last30days",
