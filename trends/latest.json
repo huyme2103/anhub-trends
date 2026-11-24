@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T09:09:42.793081Z",
+  "generated_at": "2026-11-24T10:57:57.270715Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -24,16 +24,16 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-          "url": "https://signal.org/blog/protecting-your-privacy/",
-          "source": "hackernews",
-          "published_at": "2026-11-20"
-        },
-        {
           "title": "AI agents ask better questions than KPMG accountants in audit trial",
           "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
           "source": "hackernews",
           "published_at": "2026-11-18"
+        },
+        {
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "url": "https://signal.org/blog/protecting-your-privacy/",
+          "source": "hackernews",
+          "published_at": "2026-11-20"
         },
         {
           "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
@@ -66,7 +66,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-23T09:08:55.712813Z",
+      "researched_at": "2026-11-24T10:57:33.889057Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -109,6 +109,12 @@
           "published_at": "2026-11-20"
         },
         {
+          "title": "Sandboxing AI Coding Agents: Nono vs. Docker Sbx vs. Microsandbox vs. OpenShell",
+          "url": "https://kudelskisecurity.com/research/sandboxing-coding-agents",
+          "source": "hackernews",
+          "published_at": "2026-11-23"
+        },
+        {
           "title": "Ask HN: Who's really winning with AI-Coding?",
           "url": "https://news.ycombinator.com/item?id=50525329",
           "source": "hackernews",
@@ -131,21 +137,15 @@
           "url": "https://news.ycombinator.com/item?id=50374297",
           "source": "hackernews",
           "published_at": "2026-11-05"
-        },
-        {
-          "title": "With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper",
-          "url": "https://ploy.ai/blog/ploy-ai-gateway",
-          "source": "hackernews",
-          "published_at": "2026-11-19"
         }
       ],
-      "researched_at": "2026-11-23T09:09:20.380948Z",
+      "researched_at": "2026-11-24T10:57:44.051217Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI coding tools",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -212,13 +212,13 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-23T09:09:31.809240Z",
+      "researched_at": "2026-11-24T10:57:47.892747Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI models",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -231,9 +231,8 @@
       "summary": "Ask HN: What is the most secure OS for mobile phone?",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -242,18 +241,6 @@
           "url": "https://news.ycombinator.com/item?id=50390644",
           "source": "hackernews",
           "published_at": "2026-11-06"
-        },
-        {
-          "title": "Mobile Game Development Software & Engine | Unity",
-          "url": "https://unity.com/solutions/mobile",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "What Is Mobile Game Development? Beginner's Guide",
-          "url": "https://www.cubix.co/blog/what-is-mobile-game-development-a-beginners-guide/",
-          "source": "grounding",
-          "published_at": null
         },
         {
           "title": "Herdr Releases Mobile Apps",
@@ -266,33 +253,15 @@
           "url": "https://arxiv.org/abs/2609.21544",
           "source": "hackernews",
           "published_at": "2026-10-25"
-        },
-        {
-          "title": "Best mobile game engines 2026 - Unity, Unreal, Godot",
-          "url": "https://appradar.com/blog/mobile-game-engines-development-platforms",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Develop Android games | Android game development | Android Developers",
-          "url": "https://developer.android.com/games",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Android game development | Android Developers",
-          "url": "https://developer.android.com/games/downloads",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-23T09:09:33.132675Z",
+      "researched_at": "2026-11-24T10:57:49.407763Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "mobile game development",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
@@ -304,9 +273,8 @@
       "summary": "Silver Lake, Saudi Foreign Wealth Fund held talks to buy Unity game engine",
       "momentum": null,
       "velocity_score": null,
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "grounding",
         "hackernews"
       ],
       "evidence": [
@@ -327,45 +295,15 @@
           "url": "https://unity.com/blog/synty-studios-acquisition",
           "source": "hackernews",
           "published_at": "2026-11-17"
-        },
-        {
-          "title": "Unity: Develop, Deploy, and Grow | The World's Leading Game Engine",
-          "url": "https://unity.com/",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity Engine: 2D & 3D Development Platform | Unity",
-          "url": "https://unity.com/products/unity-engine",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity (game engine) - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Unity_(game_engine)",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Unity",
-          "url": "https://create.unity.com/choose-unity-to-create",
-          "source": "grounding",
-          "published_at": null
-        },
-        {
-          "title": "Install the Unity Hub",
-          "url": "https://docs.unity.com/en-us/hub/install-hub",
-          "source": "grounding",
-          "published_at": null
         }
       ],
-      "researched_at": "2026-11-23T09:09:36.106797Z",
+      "researched_at": "2026-11-24T10:57:51.734125Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "Unity engine",
       "research_status": {
-        "grounding": "ok",
+        "grounding": "unreachable",
         "hackernews": "ok",
         "jobs": "no-results",
         "reddit": "auth-failed"
@@ -408,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-23T09:09:40.962360Z",
+      "researched_at": "2026-11-24T10:57:55.635105Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -451,7 +389,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-23T09:09:42.763112Z",
+      "researched_at": "2026-11-24T10:57:57.237153Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -461,6 +399,32 @@
         "hackernews": "ok",
         "reddit": "auth-failed"
       }
+    },
+    {
+      "id": "discovery-glm-5-4-toward",
+      "title": "GLM-5.4 Toward",
+      "category": "ai",
+      "summary": "1 listing item on hackernews generated 1,497 native interactions. GLM-5.4: Toward generalized coding with our first loop transformer",
+      "momentum": "new-this-week",
+      "velocity_score": 1587.81,
+      "source_count": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "evidence": [
+        {
+          "title": "GLM-5.4 Toward",
+          "url": "https://z.ai/blog/glm-5.4",
+          "source": "discovery",
+          "published_at": null
+        }
+      ],
+      "researched_at": "2026-11-24T10:57:57.270715Z",
+      "coverage": "discovery",
+      "origin": "discovery",
+      "attribution": "Last30Days v3.39.0 · keyless sources",
+      "query": "AI coding",
+      "research_status": {}
     },
     {
       "id": "discovery-perplexity-and-intelligence",
@@ -482,7 +446,7 @@
         }
       ],
       "researched_at": "2026-11-23T09:09:42.793081Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -508,7 +472,7 @@
         }
       ],
       "researched_at": "2026-11-23T09:09:42.793081Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -534,7 +498,7 @@
         }
       ],
       "researched_at": "2026-11-23T09:09:42.793081Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -560,7 +524,7 @@
         }
       ],
       "researched_at": "2026-11-23T09:09:42.793081Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "game development",
@@ -799,32 +763,6 @@
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
       "research_status": {}
-    },
-    {
-      "id": "discovery-maxwell-model-maxwell-v1-flash-hugging-face",
-      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
-      "category": "ai",
-      "summary": "1 listing item on reddit generated 234 native interactions. # Model Introduction **Maxwell-V1.0-Flash** is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with **35B total parameters and 3B active parameters per token**",
-      "momentum": "new-this-week",
-      "velocity_score": 351.0,
-      "source_count": 1,
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-17T10:43:36.150336Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI agents",
-      "research_status": {}
     }
   ],
   "source_status": {
@@ -836,19 +774,21 @@
     "x": "skipped-unconfigured"
   },
   "warnings": [
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Give LangGraph WhatsApp).",
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Localcode Mac).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: GUIDE Inkling 2 Mini).",
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ AI Jacob Coxon Robin Hanson do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI KPMG accountants do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI is killing All About Berlin do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Beginner Guide Local AI Inkling Qwen do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ LLM do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Nasdaq 2026 AI sell-off dampens Anthropic do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Perplexity and Intelligence do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Pete AI do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ Postman silently auto-installs AI API do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ maxwell-model/Maxwell-V1-Flash · Hugging Face do lần chạy này thiếu dữ liệu.",
     "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
   ],
   "engine": {
