@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T10:57:57.270715Z",
+  "generated_at": "2026-11-25T09:53:15.485701Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -24,16 +24,16 @@
           "published_at": "2026-11-11"
         },
         {
-          "title": "AI agents ask better questions than KPMG accountants in audit trial",
-          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-          "source": "hackernews",
-          "published_at": "2026-11-18"
-        },
-        {
           "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
           "url": "https://signal.org/blog/protecting-your-privacy/",
           "source": "hackernews",
           "published_at": "2026-11-20"
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "hackernews",
+          "published_at": "2026-11-18"
         },
         {
           "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
@@ -66,7 +66,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-24T10:57:33.889057Z",
+      "researched_at": "2026-11-25T09:52:51.929187Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -139,7 +139,7 @@
           "published_at": "2026-11-05"
         }
       ],
-      "researched_at": "2026-11-24T10:57:44.051217Z",
+      "researched_at": "2026-11-25T09:53:02.096460Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -182,16 +182,22 @@
           "published_at": "2026-11-12"
         },
         {
+          "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+          "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+          "source": "hackernews",
+          "published_at": "2026-11-24"
+        },
+        {
           "title": "Closed AI models dominate the price-performance frontier",
           "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
           "source": "hackernews",
           "published_at": "2026-11-06"
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "title": "Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
           "source": "hackernews",
-          "published_at": "2026-10-25"
+          "published_at": "2026-10-26"
         },
         {
           "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
@@ -204,15 +210,9 @@
           "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
           "source": "hackernews",
           "published_at": "2026-11-16"
-        },
-        {
-          "title": "Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "hackernews",
-          "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-24T10:57:47.892747Z",
+      "researched_at": "2026-11-25T09:53:06.027835Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -247,15 +247,9 @@
           "url": "https://herdr.dev/mobile/",
           "source": "hackernews",
           "published_at": "2026-11-10"
-        },
-        {
-          "title": "Cross-Platform vs. Native Mobile Development: Empirical Study",
-          "url": "https://arxiv.org/abs/2609.21544",
-          "source": "hackernews",
-          "published_at": "2026-10-25"
         }
       ],
-      "researched_at": "2026-11-24T10:57:49.407763Z",
+      "researched_at": "2026-11-25T09:53:07.625562Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -297,7 +291,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-24T10:57:51.734125Z",
+      "researched_at": "2026-11-25T09:53:09.975052Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -334,6 +328,12 @@
           "published_at": "2026-11-10"
         },
         {
+          "title": "How to bring Gaussian Splatting to the Web using Blender 5.3 [video]",
+          "url": "https://www.youtube.com/watch?v=TYDuYWaI9PM",
+          "source": "hackernews",
+          "published_at": "2026-11-24"
+        },
+        {
           "title": "Show HN: Vork – headless 3D and VFX engine for agents",
           "url": "https://github.com/voyager-so/vork",
           "source": "hackernews",
@@ -346,7 +346,7 @@
           "published_at": "2026-10-26"
         }
       ],
-      "researched_at": "2026-11-24T10:57:55.635105Z",
+      "researched_at": "2026-11-25T09:53:13.632384Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -389,7 +389,7 @@
           "published_at": "2026-10-28"
         }
       ],
-      "researched_at": "2026-11-24T10:57:57.237153Z",
+      "researched_at": "2026-11-25T09:53:15.451054Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -420,7 +420,7 @@
         }
       ],
       "researched_at": "2026-11-24T10:57:57.270715Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI coding",
@@ -633,136 +633,6 @@
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI agents",
       "research_status": {}
-    },
-    {
-      "id": "discovery-harvard-researchers-find-ai",
-      "title": "Harvard researchers find AI",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 390 native interactions. Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "momentum": "new-this-week",
-      "velocity_score": 413.66,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Harvard researchers find AI",
-          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI agents",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-y-all-2025",
-      "title": "Y'all 2025",
-      "category": "ai",
-      "summary": "1 listing item on reddit generated 232 native interactions. Everyday on /r/LocalLLaMA i see people starting hell about if a comment/post is an llm-genned slop. And I still see people joking about em-dashes or \"load-bearing\" as some indicator of slop. I haven't seen any recent mod",
-      "momentum": "new-this-week",
-      "velocity_score": 348.0,
-      "source_count": 1,
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "title": "Y'all 2025",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xz6tv9/yalls_idea_of_slop_is_stuck_in_2025/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI agents",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-google-ai-40",
-      "title": "Google AI 40",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 598 native interactions. Google's AI answers reducing search traffic by 40%",
-      "momentum": "new-this-week",
-      "velocity_score": 897.0,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Google AI 40",
-          "url": "https://revscope.co/blog/search-seo-geo-2026/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-ai-is-killing-all-about-berlin",
-      "title": "AI is killing All About Berlin",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 347 native interactions. AI is killing All About Berlin",
-      "momentum": "new-this-week",
-      "velocity_score": 520.5,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "AI is killing All About Berlin",
-          "url": "https://nicolasbouliane.com/blog/death-by-ai",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-18T08:35:26.810346Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
-    },
-    {
-      "id": "discovery-windows-11",
-      "title": "Windows 11",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 1,119 native interactions. Windows 11 is collecting data on which coding agents and developer tools you use",
-      "momentum": "new-this-week",
-      "velocity_score": 1186.88,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Windows 11",
-          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-17T11:56:13.689046Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI agents",
-      "research_status": {}
     }
   ],
   "source_status": {
@@ -774,21 +644,18 @@
     "x": "skipped-unconfigured"
   },
   "warnings": [
-    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: GUIDE Inkling 2 Mini).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Marginalia Search Money Rust AI).",
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: Prompt rules).",
     "Discovery không có chủ đề vượt ngưỡng.",
     "Giữ chủ đề cũ AI Jacob Coxon Robin Hanson do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ AI KPMG accountants do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ AI is killing All About Berlin do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Beginner Guide Local AI Inkling Qwen do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Google AI 40 do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Harvard researchers find AI do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ GLM-5.4 Toward do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ LLM do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Nasdaq 2026 AI sell-off dampens Anthropic do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Perplexity and Intelligence do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Pete AI do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Postman silently auto-installs AI API do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Windows 11 do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Y'all 2025 do lần chạy này thiếu dữ liệu.",
     "Nguồn suy giảm: grounding=unreachable, reddit=auth-failed."
   ],
   "engine": {
