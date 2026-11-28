@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T09:42:49.840731Z",
+  "generated_at": "2026-11-28T08:56:11.072164Z",
   "window_days": 30,
   "status": "degraded",
   "last_success_at": "2026-11-15T10:26:04.381613Z",
@@ -10,8 +10,8 @@
       "title": "AI Agents",
       "category": "ai",
       "summary": "How do they plan on stopping me from using Claude code with the Claude in chrome plugin, or some other computer use agent? At this point it feels like I have an adversarial relationship with many merchants I use online. I wish the simple “you have a product, I have money” relationship was possible. ... Tangent: it was always odd to me that \"booking a [flight|hotel|concert tickets]\" is the canonical example of a task that can be automated by an agent. These are tasks that are: - already streamli…",
-      "momentum": "new-this-week",
-      "velocity_score": 658.67,
+      "momentum": null,
+      "velocity_score": null,
       "source_count": 1,
       "sources": [
         "hackernews"
@@ -30,16 +30,16 @@
           "published_at": "2026-11-26"
         },
         {
-          "title": "AI agents ask better questions than KPMG accountants in audit trial",
-          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-          "source": "hackernews",
-          "published_at": "2026-11-18"
-        },
-        {
           "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
           "url": "https://signal.org/blog/protecting-your-privacy/",
           "source": "hackernews",
           "published_at": "2026-11-20"
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "source": "hackernews",
+          "published_at": "2026-11-18"
         },
         {
           "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
@@ -66,7 +66,7 @@
           "published_at": "2026-11-02"
         }
       ],
-      "researched_at": "2026-11-27T09:42:27.078897Z",
+      "researched_at": "2026-11-28T08:55:49.315953Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -103,6 +103,12 @@
           "published_at": "2026-11-17"
         },
         {
+          "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://github.com/skeeto/prospero",
+          "source": "hackernews",
+          "published_at": "2026-11-27"
+        },
+        {
           "title": "Epic Games Turns to AI Coding for the Unreal Engine",
           "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
           "source": "hackernews",
@@ -131,15 +137,9 @@
           "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
           "source": "hackernews",
           "published_at": "2026-11-06"
-        },
-        {
-          "title": "Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents",
-          "url": "https://github.com/HarsH-1877/Dev-Mem",
-          "source": "hackernews",
-          "published_at": "2026-11-26"
         }
       ],
-      "researched_at": "2026-11-27T09:42:37.090290Z",
+      "researched_at": "2026-11-28T08:55:59.106372Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -212,7 +212,7 @@
           "published_at": "2026-11-16"
         }
       ],
-      "researched_at": "2026-11-27T09:42:41.145052Z",
+      "researched_at": "2026-11-28T08:56:02.514123Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -249,7 +249,7 @@
           "published_at": "2026-11-10"
         }
       ],
-      "researched_at": "2026-11-27T09:42:42.580609Z",
+      "researched_at": "2026-11-28T08:56:03.847908Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -291,7 +291,7 @@
           "published_at": "2026-11-17"
         }
       ],
-      "researched_at": "2026-11-27T09:42:44.706714Z",
+      "researched_at": "2026-11-28T08:56:05.646564Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -340,7 +340,7 @@
           "published_at": "2026-11-09"
         }
       ],
-      "researched_at": "2026-11-27T09:42:47.956081Z",
+      "researched_at": "2026-11-28T08:56:09.058920Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -357,8 +357,8 @@
       "title": "Game Development Tools",
       "category": "tools",
       "summary": "Indie Game Development with AI",
-      "momentum": null,
-      "velocity_score": null,
+      "momentum": "new-this-week",
+      "velocity_score": 523.97,
       "source_count": 1,
       "sources": [
         "hackernews"
@@ -371,19 +371,13 @@
           "published_at": "2026-11-09"
         },
         {
-          "title": "A great old-timey game-programming hack (2013)",
-          "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-          "source": "hackernews",
-          "published_at": "2026-11-11"
-        },
-        {
-          "title": "The October inflection point for vibe game development",
-          "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-          "source": "hackernews",
-          "published_at": "2026-10-28"
+          "title": "bouncemarket a live prediction market game",
+          "url": "https://bouncemarket.minhanhday.com/",
+          "source": "discovery",
+          "published_at": null
         }
       ],
-      "researched_at": "2026-11-27T09:42:49.810649Z",
+      "researched_at": "2026-11-28T08:56:11.035877Z",
       "coverage": "partial",
       "origin": "research",
       "attribution": "Last30Days v3.39.0 · keyless sources",
@@ -414,7 +408,7 @@
         }
       ],
       "researched_at": "2026-11-27T09:42:49.840731Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -440,7 +434,7 @@
         }
       ],
       "researched_at": "2026-11-27T09:42:49.840731Z",
-      "coverage": "discovery",
+      "coverage": "cached",
       "origin": "discovery",
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "AI",
@@ -601,32 +595,6 @@
       "attribution": "Last30Days v3.39.0 · keyless sources",
       "query": "game development",
       "research_status": {}
-    },
-    {
-      "id": "discovery-nasdaq-2026-ai-sell-off-dampens-anthropic",
-      "title": "Nasdaq 2026 AI sell-off dampens Anthropic",
-      "category": "ai",
-      "summary": "1 listing item on hackernews generated 816 native interactions. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "momentum": "new-this-week",
-      "velocity_score": 865.5,
-      "source_count": 1,
-      "sources": [
-        "hackernews"
-      ],
-      "evidence": [
-        {
-          "title": "Nasdaq 2026 AI sell-off dampens Anthropic",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "discovery",
-          "published_at": null
-        }
-      ],
-      "researched_at": "2026-11-21T08:19:16.160408Z",
-      "coverage": "cached",
-      "origin": "discovery",
-      "attribution": "Last30Days v3.39.0 · keyless sources",
-      "query": "AI",
-      "research_status": {}
     }
   ],
   "source_status": {
@@ -638,11 +606,13 @@
     "x": "skipped-unconfigured"
   },
   "warnings": [
+    "Discovery không có chủ đề vượt ngưỡng (tín hiệu yếu: blamed the model all week it).",
     "Discovery không có chủ đề vượt ngưỡng.",
+    "Giữ chủ đề cũ AI made self-hosting fun again do lần chạy này thiếu dữ liệu.",
+    "Giữ chủ đề cũ AI talks do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Beginner Guide Local AI Inkling Qwen do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ GLM-5.4 Toward do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ LLM do lần chạy này thiếu dữ liệu.",
-    "Giữ chủ đề cũ Nasdaq 2026 AI sell-off dampens Anthropic do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Perplexity and Intelligence do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ Postman silently auto-installs AI API do lần chạy này thiếu dữ liệu.",
     "Giữ chủ đề cũ York Times Photoshop AI features do lần chạy này thiếu dữ liệu.",
